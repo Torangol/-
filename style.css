@@ -1,0 +1,16 @@
+.kol {
+	color: rad;
+	background: linear-gradient(60deg, purple, red, yellow, purple);
+	gap: 40px;
+	border: 5px solid black;
+	margin: 20px;
+	padding: 20px;
+}
+.ak {
+	margin-left:500px;
+}
+.lol {
+	align="bottom"
+	margin: 30px;
+	padding: 45px;
+}
